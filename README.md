@@ -114,8 +114,6 @@ An<a><img style="margin-bottom: -35px; margin-left: 10px;" src="https://readme-c
 App :purple_heart:
 
 
-Some comment
 
-Other comment
+comment
 
-Third comment
