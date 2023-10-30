@@ -72,10 +72,10 @@
 [![Experience component](https://readme-components.vercel.app/api?component=experience&company=freshworks)](https://github.com/liveonit/readme-components)
 
  *Feel bored with the same style ? There are much more styles [here](https://github.com/liveonit/readme-components/blob/master/docs/experienceComponent.md)*
-
+ 
  # Button Component
  *You can use the below code to generate a Button Component*
-
+ 
  >*change the `&text=` with the text you want to show in your button*
 
 ```md
@@ -98,7 +98,7 @@ _You can use the below code to generate a StarRating Component_
 ```
 
 [![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=css3&text=4)](https://github.com/liveonit/readme-components)
- # Contributions
+ # Contributions 
  For details regarding contribution guidelines read [contributions.md](https://github.com/liveonit/readme-components/blob/master/CONTRIBUTING.md)
 
  # Support
@@ -111,7 +111,6 @@ _You can use the below code to generate a StarRating Component_
 
 An<a><img style="margin-bottom: -35px; margin-left: 10px;" src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&text=false"/></a>
 App :purple_heart:
-
 
 comment one
 
